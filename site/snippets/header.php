@@ -20,20 +20,20 @@
     <?= css('assets/css/owl.theme.default.min..css') ?>
     <?= css('assets/css/style.css') ?>
 
-
-    <!-- Bootstrap -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- font-awesome -->
-    <link href="assets/fonts/font-awesome/font-awesome.min.css" rel="stylesheet">
-    <!-- Mobile Menu Style -->
-    <link href="assets/css/mobile-menu.css" rel="stylesheet">
-
-    <!-- Owl carousel -->
-    <link href="assets/css/owl.carousel.css" rel="stylesheet">
-    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet">
-    <!-- Theme Style -->
-    <link href="assets/css/style.css" rel="stylesheet">
+<!---->
+<!--    <!-- Bootstrap -->-->
+<!--    <link href="assets/css/bootstrap.min.css" rel="stylesheet">-->
+<!---->
+<!--    <!-- font-awesome -->-->
+<!--    <link href="assets/fonts/font-awesome/font-awesome.min.css" rel="stylesheet">-->
+<!--    <!-- Mobile Menu Style -->-->
+<!--    <link href="assets/css/mobile-menu.css" rel="stylesheet">-->
+<!---->
+<!--    <!-- Owl carousel -->-->
+<!--    <link href="assets/css/owl.carousel.css" rel="stylesheet">-->
+<!--    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet">-->
+<!--    <!-- Theme Style -->-->
+<!--    <link href="assets/css/style.css" rel="stylesheet">-->
 
 </head>
 
