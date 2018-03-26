@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/kirby/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/kirby/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/kirby/vendor/erusev/parsedown-extra" />
+      <excludeFolder url="file://$MODULE_DIR$/kirby/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/kirby/vendor/getkirby/toolkit" />
+      <excludeFolder url="file://$MODULE_DIR$/kirby/vendor/michelf/php-smartypants" />
+      <excludeFolder url="file://$MODULE_DIR$/kirby/vendor/psr/log" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
