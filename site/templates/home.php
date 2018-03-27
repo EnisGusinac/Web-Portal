@@ -453,8 +453,10 @@
                                                             href="#">Eric joan</a></span>
 
                                                 <div class="media_social">
-                                                    <span><a href="#"><i class="fa fa-share-alt"></i>424</a> Shares</span>
-                                                    <span><a href="#"><i class="fa fa-comments-o"></i>4</a> Comments</span>
+                                                    <span><a href="#"><i
+                                                                    class="fa fa-share-alt"></i>424</a> Shares</span>
+                                                    <span><a href="#"><i
+                                                                    class="fa fa-comments-o"></i>4</a> Comments</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -472,8 +474,10 @@
                                                             href="#">Eric joan</a></span>
 
                                                 <div class="media_social">
-                                                    <span><a href="#"><i class="fa fa-share-alt"></i>424</a> Shares</span>
-                                                    <span><a href="#"><i class="fa fa-comments-o"></i>4</a> Comments</span>
+                                                    <span><a href="#"><i
+                                                                    class="fa fa-share-alt"></i>424</a> Shares</span>
+                                                    <span><a href="#"><i
+                                                                    class="fa fa-comments-o"></i>4</a> Comments</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -904,7 +908,8 @@
                                 <h3 class="media-heading">
                                     <a href="single.html" target="_self">Canon launches photo centric 00214
                                         Model supper shutter camera</a>
-                                </h3> <span class="media-date"><a href="#">10Aug- 2015</a>,  by: <a href="#">Eric joan</a></span>
+                                </h3> <span class="media-date"><a href="#">10Aug- 2015</a>,  by: <a
+                                            href="#">Eric joan</a></span>
 
                                 <div class="widget_article_social">
                 <span>
@@ -1465,7 +1470,8 @@
                             </div>
                         </div>
                         <div class="col-sm-6">
-                            <p>&copy; Copyright 2016-Tech News . Design by: <a href="https://uicookies.com">uiCookies</a>
+                            <p>&copy; Copyright 2016-Tech News . Design by: <a
+                                        href="https://uicookies.com">uiCookies</a>
                             </p>
                         </div>
                         <div class="col-sm-3">
@@ -1548,32 +1554,32 @@
     <!-- #main-wrapper -->
 
 
+    <main class="main" role="main">
 
-  <main class="main" role="main">
-    
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
+        <header class="wrap">
+            <h1><?= $page->title()->html() ?></h1>
+            <div class="intro text">
+                <?= $page->intro()->kirbytext() ?>
+            </div>
+            <hr/>
+        </header>
 
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
-    </div>
-  
-    <section class="projects-section">
-      
-      <div class="wrap wide">
-        <h2>Latest Projects</h2>
-        <?php snippet('showcase', ['limit' => 3]) ?>
-        <p class="projects-section-more"><a href="<?= page('projects')->url() ?>" class="btn">show all projects &hellip;</a></p>
-      </div>
-      
-    </section>
+        <div class="text wrap">
+            <?= $page->text()->kirbytext() ?>
+        </div>
 
-  </main>
+        <section class="projects-section">
+
+            <div class="wrap wide">
+                <h2>Latest Projects</h2>
+                <?php snippet('showcase', ['limit' => 3]) ?>
+                <p class="projects-section-more"><a href="<?= page('projects')->url() ?>" class="btn">show all projects
+                        &hellip;</a></p>
+            </div>
+
+        </section>
+
+    </main>
 
 
 <?php snippet('footer') ?>
