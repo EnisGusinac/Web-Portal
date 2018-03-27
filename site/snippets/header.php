@@ -2,25 +2,55 @@
 <html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>">
 <head>
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-  <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
-  <meta name="description" content="<?= $site->description()->html() ?>">
+    <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
+    <meta name="description" content="<?= $site->description()->html() ?>">
+    <!-- favicon -->
+    <link href="assets/img/favicon.png" rel=icon>
 
-  <?= css('assets/css/index.css') ?>
+    <!-- web-fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,500' rel='stylesheet' type='text/css'>
+
+    <?= css('assets/css/bootstrap.min.css') ?>
+    <?= css('assets/fonts/font-awesome/font-awesome.min.css') ?>
+    <?= css('assets/css/mobile-menu.css') ?>
+    <?= css('assets/css/owl.carousel.css') ?>
+    <?= css('assets/css/owl.theme.default.min..css') ?>
+    <?= css('assets/css/style.css') ?>
 
 </head>
-<body>
 
-  <header class="header wrap wide" role="banner">
-    <div class="grid">
+<body id="page-top" data-spy="scroll" data-target=".navbar">
+<div id="main-wrapper">
 
-      <div class="branding column">
-        <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
-      </div>
+    <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
 
-      <?php snippet('menu') ?>
-
+    <!-- Page Preloader -->
+    <div id="preloader">
+        <div id="status">
+            <div class="status-mes"></div>
+        </div>
     </div>
-  </header>
+
+    <?php snippet('menu') ?>
+
+
+<!-- jquery Core-->
+<script src="assets/js/jquery-2.1.4.min.js"></script>
+
+<!-- Bootstrap -->
+<script src="assets/js/bootstrap.min.js"></script>
+
+<!-- Theme Menu -->
+<script src="assets/js/mobile-menu.js"></script>
+
+<!-- Owl carousel -->
+<script src="assets/js/owl.carousel.min.js"></script>
+
+<!-- Theme Script -->
+<script src="assets/js/script.js"></script>
+</body>
+</html>
+

@@ -2,729 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f3b3f93-5b7b-46ec-b91e-97863c1c05ff" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/kirby-2.5.10.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/montserrat-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/montserrat-700.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/montserrat-license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/vesperlibre-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/vesperlibre-500.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/vesperlibre-700.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/vesperlibre-license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/arrow-left.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/arrow-right.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/1-project-a/closeup.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/1-project-a/closeup.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/1-project-a/creative-tools.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/1-project-a/creative-tools.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/1-project-a/folding-rule.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/1-project-a/folding-rule.jpg.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/1-project-a/project.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/2-project-b/project.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/2-project-b/room.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/2-project-b/table.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/3-project-c/camera.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/3-project-c/project.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/4-project-d/letters.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/4-project-d/project.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/5-project-e/project.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/5-project-e/typewriter.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/1-projects/projects.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/2-blog/20160802-extending-kirby/article.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/2-blog/20160802-extending-kirby/extending.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/2-blog/20160803-licensing-kirby/article.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/2-blog/20160803-licensing-kirby/licensing.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/2-blog/20160804-content-in-kirby/article.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/2-blog/20160804-content-in-kirby/content.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/2-blog/blog.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-bob-meowerly/bob-meowerly.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-bob-meowerly/team.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-brad-kitt/brad-kitt.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-brad-kitt/team.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-cat-winslet/cat-winslet.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-cat-winslet/team.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-hunter-s-tomcat/hunter-s-tomcat.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/0-hunter-s-tomcat/team.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/3-about/about.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/4-contact/contact.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/4-contact/contact.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/4-contact/docs.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/4-contact/forum.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/4-contact/github.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/error/error.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/home/home.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/site.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/bootstrap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/default.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang/content.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang/field.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang/file.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang/language.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang/languages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang/page.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/branches/multilang/site.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/classmap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/composer.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/composer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/asset.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/avatar.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/children.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/content.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/field.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/file.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/files.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/kirbytag.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/kirbytext.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/page.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/pages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/role.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/roles.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/site.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/user.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/core/users.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/extensions/methods.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/extensions/tags.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/helpers.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/css.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/js.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/markdown.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/response.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/smartypants.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/snippet.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/thumb.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/component/tinyurl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/errorhandling.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/event.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/blueprint.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/component.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/controller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/entry.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/field.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/hook.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/method.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/model.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/option.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/role.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/route.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/snippet.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/tag.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/registry/widget.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/request.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/request/params.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/request/path.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/request/query.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/roots.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/traits/image.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/kirby/urls.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/lib/pageextension.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/lib/structure.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/license.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/phpunit.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/system.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/ContentTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/FieldTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/FileTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/FilesTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/KirbyTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/KirbytextTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/ModelsTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/PageTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/PagesTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/RegistryEntryTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/RegistryTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/RoleTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/RootsTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/SiteTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/UrlsTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/UsersTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/1-a/a.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/1-a/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/2-b/b.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/error/error.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/home/home.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/site.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/tests/field-name-test/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/tests/file-extension-case-test/a.JSON" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/content/tests/file-extension-case-test/b.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/gist/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/gist/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-alt/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-alt/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-caption/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-caption/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-link-popup/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-link-popup/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-link/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image-with-link/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/image/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/input-with-placeholder/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/input-with-placeholder/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-class/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-class/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-link-as-text/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-link-as-text/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-popup/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-popup/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-rel/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-rel/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-target/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-with-target/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-without-text/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link-without-text/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/link/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/multiline-parenthesis/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/multiline-parenthesis/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/non-matching-parenthesises/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/non-matching-parenthesises/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/script-tag/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/script-tag/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/tag-in-parenthesis/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/tag-in-parenthesis/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/tel/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/tel/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/twitter/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/twitter/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/vimeo/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/vimeo/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/youtube/expected.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/kirbytext/youtube/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/site/accounts/test.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/site/config/config.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/site/models/a.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/site/plugins/a/a.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/site/plugins/b.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/site/tags/a.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/etc/site/tags/b.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/lib/bootstrap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/test/lib/testcase.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/autoload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/ClassLoader.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/autoload_classmap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/autoload_files.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/autoload_namespaces.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/autoload_psr4.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/autoload_real.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/autoload_static.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/composer/installed.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/ParsedownExtra.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/phpunit.xml.dist" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/ParsedownExtraTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/bootstrap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/abbreviation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/abbreviation.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/compound_footnote.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/compound_footnote.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/definition_list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/definition_list.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/footnote.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/footnote.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/markdown_inside_markup.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/markdown_inside_markup.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/special_attributes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown-extra/test/data/special_attributes.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown/Parsedown.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/erusev/parsedown/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/LICENSE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Exception/ErrorException.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Exception/Formatter.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Exception/Frame.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Exception/FrameCollection.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Exception/Inspector.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Handler/CallbackHandler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Handler/Handler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Handler/HandlerInterface.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Handler/JsonResponseHandler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Handler/XmlResponseHandler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/css/whoops.base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/js/clipboard.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/js/prettify.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/js/whoops.base.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/js/zepto.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/frame_code.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/frame_list.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/frames_container.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/frames_description.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/header.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/header_outer.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/panel_details.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/panel_details_outer.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/panel_left.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Resources/views/panel_left_outer.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Run.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/RunInterface.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Util/HtmlDumperOutput.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Util/Misc.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Util/SystemFacade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/bootstrap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/helpers.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/a.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/bitmask.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/brick.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/c.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache/driver.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache/driver/apc.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache/driver/file.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache/driver/memcached.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache/driver/mock.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache/driver/session.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cache/value.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/collection.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/cookie.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/crypt.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/data.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/database.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/database/query.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/db.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/detect.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/dimensions.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/dir.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/email.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/embed.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/error.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/errorreporting.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/escape.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/exif.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/exif/camera.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/exif/location.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/f.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/folder.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/i.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/l.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/media.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/obj.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/pagination.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/password.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/r.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/redirect.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/remote.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/response.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/router.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/s.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/server.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/silo.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/sql.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/str.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/system.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/thumb.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/timer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/toolkit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/upload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/url.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/v.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/visitor.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/xml.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/lib/yaml.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/phpunit.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/ATest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/BitmaskTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/CTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/CollectionTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/DbTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/DimensionsTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/DirTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/EmbedTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/ErrorReportingTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/FTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/HTMLTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/HeaderTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/HelpersTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/LTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/MediaTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/ObjTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/PaginationTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/PasswordTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/RTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/ServerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/StrTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/SystemTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/TimerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/UrlTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/VTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/VisitorTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/XmlTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/etc/content.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/etc/images/favicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/etc/system/executable.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/etc/system/nonexecutable.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/test/lib/bootstrap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/vendors/abeautifulsite/SimpleImage.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/vendors/mimereader/mimereader.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/vendors/truebv/punycode.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/getkirby/toolkit/vendors/yaml/yaml.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/License.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/Michelf/SmartyPants.inc.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/Michelf/SmartyPants.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/Michelf/SmartyPantsTypographer.inc.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/Michelf/SmartyPantsTypographer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/Readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/Readme.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/michelf/php-smartypants/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/AbstractLogger.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/InvalidArgumentException.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/LogLevel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/LoggerInterface.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/LoggerTrait.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/NullLogger.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/vendor/psr/log/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kirby/views/fatal.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/license.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/bootstrap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/config/routes.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/assets.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/autocomplete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/avatars.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/dashboard.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/error.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/field.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/files.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/installation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/options.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/pages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/search.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/subpages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/controllers/users.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/base/base.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/checkbox/checkbox.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/checkboxes/checkboxes.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/date/assets/js/date.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/date/date.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/datetime/datetime.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/email/email.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/filename/filename.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/headline/assets/css/headline.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/headline/headline.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/hidden/hidden.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/image/assets/css/image.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/image/assets/js/image.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/image/image.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/info/info.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/input/input.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/inputlist/inputlist.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/line/line.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/number/number.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/page/page.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/password/password.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/radio/radio.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/select/select.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/assets/css/structure.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/assets/js/structure.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/controller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/forms/add.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/forms/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/forms/update.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/structure.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/styles/items.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/styles/table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/views/add.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/views/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/structure/views/update.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/tags/tags.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/tel/tel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/text/assets/css/counter.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/text/assets/js/counter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/text/text.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/assets/js/editor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/buttons.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/controller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/forms/email.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/forms/link.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/textarea.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/views/email.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/textarea/views/link.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/time/time.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/title/title.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/toggle/toggle.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/url/assets/js/url.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/url/url.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/fields/user/user.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/auth/login.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/avatars/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/editor/email.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/editor/link.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/files/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/files/edit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/installation/check.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/installation/signup.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/pages/add.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/pages/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/pages/edit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/pages/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/pages/toggle.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/pages/url.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/users/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/forms/users/user.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/helpers.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/layouts/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/layouts/base.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/layouts/fatal.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/breadcrumb.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/favicon.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/languages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/meta.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/file.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/files.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/subpage.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/pages/sidebar/subpages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/pagination.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/search.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/subpages/subpage.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/snippets/uploader.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/autocomplete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/collections/children.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/collections/files.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/collections/users.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/controllers/base.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/controllers/field.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/errorhandling.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/event.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/exceptions/permissions.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/form.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/form/fieldoptions.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/form/plugins.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/installer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/layout.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/login.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/file.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/file/menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/file/options.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/file/ui.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/addbutton.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/blueprint.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/blueprint/field.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/blueprint/fields.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/blueprint/files.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/blueprint/options.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/blueprint/pages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/changes.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/options.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/sidebar.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/sorter.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/ui.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/page/uploader.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/site.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/site/options.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/site/ui.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/user.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/user/avatar.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/user/avatar/ui.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/user/blueprint.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/user/history.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/models/user/ui.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/roots.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/search.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/snippet.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/structure.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/structure/store.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/topbar.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/translation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/upload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/urls.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/view.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/src/panel/widgets.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/topbars/error.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/topbars/user.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ar/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ar/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/bg/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/bg/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ca/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ca/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/cs/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/cs/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/da/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/da/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/de/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/de/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/el/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/el/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/en/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/en/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/es_419/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/es_419/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/es_ES/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/es_ES/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/fa/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/fa/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/fi/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/fi/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/fr/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/fr/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/hu/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/hu/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/id/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/id/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/it/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/it/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ja/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ja/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ko/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ko/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/nb/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/nb/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/nl/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/nl/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/pl/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/pl/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/pt_BR/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/pt_BR/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/pt_PT/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/pt_PT/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ro/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ro/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ru/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/ru/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/sv_SE/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/sv_SE/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/tr/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/tr/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/zh_CN/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/zh_CN/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/zh_TW/core.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/translations/zh_TW/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/auth/block.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/auth/error.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/auth/login.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/avatars/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/dashboard/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/error/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/error/modal.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/files/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/files/edit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/files/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/installation/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/options/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/pages/add.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/pages/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/pages/edit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/pages/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/pages/toggle.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/pages/url.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/search/results.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/subpages/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/users/delete.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/users/edit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/views/users/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/account/account.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/account/account.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/history/history.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/history/history.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/license/license.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/license/license.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/pages/pages.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/pages/pages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/site/site.html.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/app/widgets/site/site.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/css/form.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/css/panel.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/sourcesanspro-400-italic.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/sourcesanspro-400-italic.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/sourcesanspro-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/sourcesanspro-400.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/sourcesanspro-600.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/fonts/sourcesanspro-600.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/images/avatar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/images/hint.arrows.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/images/loader.black.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/images/loader.white.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/images/pattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/images/placeholder.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/js/dist/app.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/js/dist/form.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/assets/js/dist/panel.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/license.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/panel/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/accounts/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/about.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/article.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/blog.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/contact.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/default.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/error.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/home.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/project.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/projects.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/site.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/blueprints/team.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/cache/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/config/config.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/controllers/blog.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/plugins/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/snippets/coverimage.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/snippets/footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/snippets/header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/snippets/menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/snippets/pagination.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/snippets/prevnext.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/snippets/showcase.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/about.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/article.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/blog.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/contact.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/default.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/home.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/project.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/templates/projects.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thumbs/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/montserrat-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/montserrat-700.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/montserrat-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/vesperlibre-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/vesperlibre-500.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/vesperlibre-700.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/vesperlibre-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/snippets/header.php" afterPath="$PROJECT_DIR$/site/snippets/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -733,66 +20,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/kirby/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/templates/home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/templates/default.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/templates/blog.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/templates/project.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="469">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -803,6 +40,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/technews-uiCookies/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -857,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -887,6 +133,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -925,35 +172,34 @@
       <option name="presentableId" value="Default" />
       <updated>1522075641915</updated>
       <workItem from="1522075644141" duration="281000" />
+      <workItem from="1522094455319" duration="533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="394000" />
+    <option name="totallyTimeSpent" value="928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -968,11 +214,303 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/technews-uiCookies/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12375">
+          <caret line="825" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="825" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/technews-uiCookies/html/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="46" lean-forward="true" selection-start-line="115" selection-start-column="46" selection-end-line="115" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/technews-uiCookies/html/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1008,6 +546,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/technews-uiCookies/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/snippets/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1016,10 +562,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site/snippets/showcase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/snippets/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="469">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
           <folding />
         </state>
       </provider>
