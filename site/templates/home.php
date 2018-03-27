@@ -1317,7 +1317,7 @@
                     <div class="footer_widget_title"><h3><a href="category.html" target="_self">About Tech</a>
                         </h3></div>
                     <div class="logo footer-logo">
-                        <a title="fontanero" href="index.html">
+                        <a title="fontanero" href="/">
                             <img src="assets/img/tech_about.jpg" alt="technews">
                         </a>
 
