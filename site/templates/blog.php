@@ -1,66 +1,119 @@
 <?php snippet('header') ?>
 
+
+    <header class="wrap">
+        <h1><?= $page->title()->html() ?></h1>
+
+        <?php
+        // This page uses a separate controller to set variables, which can be used
+        // within this template file. This results in less logic in your templates,
+        // making them more readable. Learn more about controllers at:
+        // https://getkirby.com/docs/developer-guide/advanced/controllers
+        if ($pagination->page() == 1):
+            ?>
+            <div class="intro text">
+                <?= $page->text()->kirbytext() ?>
+            </div>
+        <?php endif ?>
+
+        <hr/>
+    </header>
+
+    <section class="wrap">
+        <?php if ($articles->count()): ?>
+            <?php foreach ($articles as $article): ?>
+
+                <article class="article index">
+
+                    <header class="article-header">
+                        <h2 class="article-title">
+                            <a href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
+                        </h2>
+
+                        <p class="article-date"><?= $article->date('F jS, Y') ?></p>
+                    </header>
+
+                    <?php snippet('coverimage', $article) ?>
+
+                    <div class="text">
+                        <p>
+                            <?= $article->text()->kirbytext()->excerpt(50, 'words') ?>
+                            <a href="<?= $article->url() ?>" class="article-more">read more</a>
+                        </p>
+                    </div>
+
+                </article>
+
+                <hr/>
+
+            <?php endforeach ?>
+        <?php else: ?>
+            <p>This blog does not contain any articles yet.</p>
+        <?php endif ?>
+    </section>
+    ----------------------------------------------------------------------------------------------------
     <section id="entity_section" class="entity_section">
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
                     <div class="entity_wrapper">
-                        <div class="entity_title">
-                            <h1><a href="single.html" target="_self">Airbnb launches photo-centric app for iPads and
-                                    Android tablets.</a>
-                            </h1>
-                        </div>
-                        <!-- entity_title -->
+                        <?php if ($articles->count()): ?>
+                            <?php foreach ($articles as $article): ?>
 
-                        <div class="entity_meta">
-                            <a href="#">10Aug- 2015</a>, by: <a href="#">Eric joan</a>
-                        </div>
-                        <!-- entity_meta -->
+                                <div class="entity_title">
+                                    <h1><a href="<?= $article->url() ?>"
+                                           target="_self"><?= $article->title()->html() ?></a>
+                                    </h1>
+                                </div>
+                                <!-- entity_title -->
 
-                        <div class="rating">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star-half-full"></i>
-                        </div>
-                        <!-- rating -->
+                                <div class="entity_meta">
+                                    <a href="#"><?= $article->date('F jS, Y') ?></a>, by: <a href="#">Eric joan</a>
+                                </div>
+                                <!-- entity_meta -->
 
-                        <div class="entity_social">
-                            <a href="#" class="icons-sm sh-ic"><i class="fa fa-share-alt"></i><b>424</b>
-                                <span class="share_ic">Shares</span>
-                            </a>
-                            <a href="#" class="icons-sm fb-ic"><i class="fa fa-facebook"></i></a>
-                            <!--Twitter-->
-                            <a href="#" class="icons-sm tw-ic"><i class="fa fa-twitter"></i></a>
-                            <!--Google +-->
-                            <a href="#" class="icons-sm inst-ic"><i class="fa fa-google-plus"> </i></a>
-                            <!--Linkedin-->
-                            <a href="#" class="icons-sm tmb-ic"><i class="fa fa-ge"> </i></a>
-                            <!--Pinterest-->
-                            <a href="#" class="icons-sm rss-ic"><i class="fa fa-rss"> </i></a>
-                            <span class="arrow">&raquo;</span>
-                        </div>
-                        <!-- entity_social -->
+                                <div class="rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star-half-full"></i>
+                                </div>
+                                <!-- rating -->
 
-                        <div class="entity_thumb">
-                            <img class="img-responsive" src="assets/img/category_img_top.jpg" alt="feature-top">
-                        </div>
-                        <!-- entity_thumb -->
+                                <div class="entity_social">
+                                    <a href="#" class="icons-sm sh-ic"><i class="fa fa-share-alt"></i><b>424</b>
+                                        <span class="share_ic">Shares</span>
+                                    </a>
+                                    <a href="#" class="icons-sm fb-ic"><i class="fa fa-facebook"></i></a>
+                                    <!--Twitter-->
+                                    <a href="#" class="icons-sm tw-ic"><i class="fa fa-twitter"></i></a>
+                                    <!--Google +-->
+                                    <a href="#" class="icons-sm inst-ic"><i class="fa fa-google-plus"> </i></a>
+                                    <!--Linkedin-->
+                                    <a href="#" class="icons-sm tmb-ic"><i class="fa fa-ge"> </i></a>
+                                    <!--Pinterest-->
+                                    <a href="#" class="icons-sm rss-ic"><i class="fa fa-rss"> </i></a>
+                                    <span class="arrow">&raquo;</span>
+                                </div>
+                                <!-- entity_social -->
 
-                        <div class="entity_content">
-                            <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising
-                                pain was born and I
-                                will give you a complete account of the system, and expound the actual teachings of the
-                                great explorer of
-                                the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids
-                                pleasure itself,
-                                because it is pleasure, but because those who do not know how to pursue pleasure
-                                rationally encounter
-                                consequences that are extremely painful. </p>
-                        </div>
-                        <!-- entity_content -->
+                                <div class="entity_thumb">
+                                    <img class="img-responsive" src="assets/img/category_img_top.jpg" alt="feature-top">
 
+                                </div>
+                                <!-- entity_thumb -->
+
+                                <div class="entity_content">
+                                    <p>
+                                        <?= $article->text()->kirbytext()->excerpt(50, 'words') ?>
+                                    </p>
+                                </div>
+                                <!-- entity_content -->
+                            <?php endforeach ?>
+                        <?php else: ?>
+                            <p>This blog does not contain any articles yet.</p>
+                        <?php endif ?>
                     </div>
                     <!-- entity_wrapper -->
 
