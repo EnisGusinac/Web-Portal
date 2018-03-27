@@ -101,7 +101,7 @@
                                             <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
                                         </li>
                                     <?php endforeach ?>
-                                </ul>
+
 
                                 <li class="dropdown m-menu-fw"><a href="#" data-toggle="dropdown"
                                                                   class="dropdown-toggle">More
