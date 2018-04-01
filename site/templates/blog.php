@@ -99,7 +99,6 @@
                                 <!-- entity_social -->
 
                                 <div class="entity_thumb">
-<!--                                    <img class="img-responsive" src="<?php snippet('coverimage', $article) ?>" alt="feature-top">-->
 
                                         <div class="img-responsive" >
                                             <?php snippet('coverimage', $article) ?>

@@ -1,5 +1,5 @@
 <?php if($image = $item->coverimage()->toFile()): ?>
   <figure>
-    <img src="<?= $image->url() ?>"  style="max-height: 500px; max-width: 750px;" alt="featured image"/>
+    <img src="<?= $image->url() ?>"  style="max-height: 450px; max-width: 755px;" alt="featured image is not available"/>
   </figure>
 <?php endif ?>
