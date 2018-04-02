@@ -6,13 +6,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="left_section">
-                                            <span class="date">
-                                                Sunday .
-                                            </span>
-                                <!-- Date -->
-                                <span class="time">
-                                                09 August . 2016
-                                            </span>
+                                <span class="time"> <?= date('l - F jS, Y') ?> </span>
                                 <!-- Time -->
                                 <div class="social">
                                     <a class="icons-sm fb-ic"><i class="fa fa-facebook"></i></a>
@@ -31,7 +25,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo.png" alt="Tech NewsLogo"></a>
+                                <a href="/"><img src="assets/img/logo.png" alt="Tech NewsLogo"></a>
                             </div>
                             <!-- Logo Section -->
                         </div>
