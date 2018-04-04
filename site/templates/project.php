@@ -29,5 +29,3 @@
     <?php snippet('prevnext') ?>
 
   </main>
-
-<?php snippet('footer') ?>

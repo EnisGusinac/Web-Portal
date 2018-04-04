@@ -1,6 +1,5 @@
 <?php snippet('header') ?>
 
-
 <section id="entity_section" class="entity_section">
     <div class="container">
         <div class="row">
@@ -670,6 +669,9 @@
 <!-- Subscriber Section -->
 
 
+<?php snippet('footer') ?>
+
+
 <?php snippet('header') ?>
 
 <main class="main" role="main">
@@ -695,5 +697,3 @@
     <?php snippet('prevnext', ['flip' => true]) ?>
 
 </main>
-
-<?php snippet('footer') ?>
