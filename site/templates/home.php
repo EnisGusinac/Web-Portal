@@ -279,7 +279,7 @@
                             </div>
                         </div>
                     </div>
-                    <p class="divider"><a href="#">More News&nbsp;&raquo;</a></p>
+                    <p class="divider"><a href="<?= page('projects')->url() ?>">More News&nbsp;&raquo;</a></p>
                 </div>
                 <!-- Mobile News Section -->
 
